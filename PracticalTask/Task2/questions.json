@@ -1,0 +1,45 @@
+{
+  "Survey Title": {
+    "Page Title": {
+      "Question 1 text": {
+        "Description": "Question",
+        "Answers": [
+          "Option 1",
+          "Option 2",
+          "Option 3"
+        ]
+      },
+      "Question 2 text": {
+        "Description": "Question",
+        "Answers": [
+          "Yes",
+          "No"
+        ]
+      },
+      "Open-ended question": {
+        "Description": "Write your thoughts",
+        "Answers": []
+      },
+      "My new question": {
+        "Description": "Text answer",
+        "Answers": []
+      },
+      "Added via terminal": {
+        "Description": "Question 6?",
+        "Answers": [
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      "Added": {
+        "Description": "Question 4?",
+        "Answers": [
+          "3",
+          "2",
+          "1"
+        ]
+      }
+    }
+  }
+}

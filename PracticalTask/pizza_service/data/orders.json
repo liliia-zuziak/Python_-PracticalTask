@@ -1,0 +1,23 @@
+[
+  {
+    "id": "44662f7d-4a68-433e-8afd-47c17fc00e17",
+    "name": "Oleksandr",
+    "address": "Lviv, Shevchenka St, 12",
+    "pizza_id": "<pizza_id>",
+    "status": "pending"
+  },
+  {
+    "id": "accb5b78-4dab-42b3-8a3e-d6fde4b122ac",
+    "name": "Mariia",
+    "address": "Kyiv, Peremohy Ave, 45",
+    "pizza_id": "<pizza_id>",
+    "status": "pending"
+  },
+  {
+    "id": "bac8d64f-9c45-4f14-95c0-3ad5eee29cac",
+    "name": "Olena",
+    "address": "Odesa, vul. Derybasivska, 5",
+    "pizza_id": "<pizza_id>",
+    "status": "pending"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "f015a1d5-0136-4593-81a1-8ac959eff01b",
+    "name": "Margherita",
+    "price": 115
+  },
+  {
+    "id": "12b00d05-8d23-4edd-a7ca-4b04c1055d8b",
+    "name": "Pepperoni",
+    "price": 130
+  },
+  {
+    "id": "31e76f83-f686-4b3e-b8eb-516211c0cbf0",
+    "name": "Hawaiian",
+    "price": 125
+  },
+  {
+    "id": "2e37fd36-8235-46f8-ae60-838dbf822ecb",
+    "name": "Margherita",
+    "price": 165
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "f61f2e63-3afb-49e2-ab70-0bb148b5df7b",
+    "name": "Liliia",
+    "address": "Lviv, Shevchenca St 1"
+  },
+  {
+    "id": "548f2480-5ed2-497f-a96c-9f4e4c11cae9",
+    "name": "Oleksandr",
+    "address": "Lviv, vul. Shevchenka, 12"
+  },
+  {
+    "id": "cb36db65-b886-4073-9a84-6886802b0a3b",
+    "name": "Mariia",
+    "address": "Kyiv, prosp. Peremohy, 45"
+  },
+  {
+    "id": "f069b541-bb73-4eaf-8cf3-6a114fa90bfc",
+    "name": "Andrii",
+    "address": "Kharkiv, vul. Sumska, 30"
+  },
+  {
+    "id": "b00549c3-2977-49f1-a2b2-cf0b6b90f10c",
+    "name": "Olena",
+    "address": "Odesa, vul. Derybasivska, 5"
+  },
+  {
+    "id": "3738113c-d93b-4824-863c-3d898972ae28",
+    "name": "Alina",
+    "address": "Dnipro, vul. Polia, 18"
+  }
+]
