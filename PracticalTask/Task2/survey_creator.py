@@ -1,8 +1,6 @@
 import json
 import requests
 
-ACCESS_TOKEN = "CMT0R-q0dcs6i9ZZ0fGmpLP1NAECqMSU.HKuPz94Vt0bZoflMZ9HyNmhxiTUDGhzG47SlOF7gHmvETyE0NVLY6W6l7iBlUAkLE-smLbvodHMtxC4oaDh16iG.B0dZPbR"
-
 API_BASE = "https://api.surveymonkey.com/v3"
 
 HEADERS = {
